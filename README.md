@@ -43,5 +43,3 @@ A new database will be automatically created on first run.
 Shayaan Khan
 
 ---
-
-If you want, I can write a more formal IB-style “Design, Record of Tasks, and Development” summary or tailor this based on whether it’s GUI/CLI, what libraries you used, or what your class structure looks like.
